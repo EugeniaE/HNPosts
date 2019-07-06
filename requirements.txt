@@ -1,0 +1,5 @@
+pandas
+csv reader
+datetime
+matplotlib
+seaborn
