@@ -22,11 +22,11 @@ Dataset is was taken from here: https://www.kaggle.com/hacker-news/hacker-news-p
 
 -**created_at**: The date and time at which the post was submitted
 
-# Settings: 
+## Settings: 
 
 Python with pandas, matplotlib.
 
 ## Conclusion:
 
-posts made at 15.00 have maximum average number of comments - 38.59! Best time to ask questions!
+Posts made at 15.00 have maximum average number of comments - 38.59! Best time to ask questions!
 
